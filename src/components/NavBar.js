@@ -52,7 +52,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/mohamed-khalifa-b5375623a/" target="_blank"><img src={navIcon1} alt="" /></a>
-                <a href="https://www.facebook.com/profile.php?id=100008344484144" target="_blank"><img src={navIcon2} alt="" /></a> 
+                <a href="https://www.facebook.com/mohamed.khalifa.495868" target="_blank"><img src={navIcon2} alt="" /></a> 
                 <a href="https://www.instagram.com/mohamed_khalifa5000/" target="_blank"><img src={navIcon3} alt="" /></a>
                 <a href="https://github.com/Khalifa5000" target="_blank"><img className="git"  src={navIcon4} alt="" /></a>
                
